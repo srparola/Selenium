@@ -1,0 +1,29 @@
+[RemoteTestNG] detected TestNG version 7.3.0
+======Starting Test======
+Starting ChromeDriver 86.0.4240.22 (398b0743353ff36fb1b82468f63a3a93b4e2e89e-refs/branch-heads/4240@{#378}) on port 15451
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+[1609822370.793][WARNING]: This version of ChromeDriver has not been tested with Chrome version 87.
+Jan 05, 2021 10:22:53 AM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+Waiting
+Tata Communications Portal Page is fully  Loaded in 2Seconds
+Waiting
+Waiting
+Waiting
+Waiting
+Waiting
+Waiting
+Waiting
+Waiting
+Waiting
+Waiting
+Waiting
+Waiting
+Waiting
+Waiting
+Waiting
+Waiting
+Waiting
+Waiting
